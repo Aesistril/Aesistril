@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔨 I’m currently working on the CuratedCrawl Search Engine!
-- 📖 I’m currently learning The Rust Programming Language
+📚 I'll be working for my university exam whole year. No updates or projects until 2024 summer
 
 ```
 ae@earth:~$ mefetch 
