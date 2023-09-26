@@ -12,9 +12,9 @@ Pronouns: He/They
 Favorite Language: Python, Rust
 Maintained Projects: ✨ None ✨
 Uptime: 17 Years
-OS: Arch Linux 🐧
-Mobile OS: LineageOS 19.1 AOSP 🤖
-Server/Embed OS: Debian Stable 🌀
+Desktop OS: Arch Linux 🐧
+Mobile OS: LineageOS 20.0 AOSP 🤖
+Server/Embeded OS: Debian Stable 🌀
 Box: Acer Nitro 5 AN515-54 💻
 Box: Redmi Note 9 Pro 📱
 Box: Raspberry Pi Zero W
