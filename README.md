@@ -9,11 +9,11 @@ ae@earth
 -----------------
 Name: Aesistril
 Pronouns: He/They
-Favorite Language: Python, Rust
+Favorite Language: Python, C (still learning)
 Maintained Projects: ✨ None ✨
-Uptime: 17 Years
+Uptime: 18 Years
 Desktop OS: Arch Linux 🐧
-Mobile OS: LineageOS 20.0 AOSP 🤖
+Mobile OS: LineageOS 🤖
 Server/Embeded OS: Debian Stable 🌀
 Box: Acer Nitro 5 AN515-54 💻
 Box: Redmi Note 9 Pro 📱
